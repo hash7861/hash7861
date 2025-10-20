@@ -1,23 +1,8 @@
-# Hi there, I'm Ibrahim 👋  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Ibrahim+👋;Full-Stack+%26+AI/ML+Enthusiast;Cybersecurity+Researcher;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=800&lines=Wassup!+I'm+Ibrahim+👋;Full-Stack+%26+AI/ML+Enthusiast;Cybersecurity+Researcher)](https://git.io/typing-svg)
 
 🎓 Junior @ The Ohio State University (CSE ‘27)  
 💻 Backend & AI/ML enthusiast | Cybersecurity Researcher 
 🚀 Interested in AI agents, cloud infrastructure, and anything data-related tech! 
-
----
-
-## 📊 GitHub Stats & Activity  
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hash7861&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash7861&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hash7861&theme=tokyonight&hide_border=true)  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hash7861&theme=onedark&margin-w=10&margin-h=10)  
-
-![visitors](https://komarev.com/ghpvc/?username=hash7861&color=blue)
 
 ---
 
