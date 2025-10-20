@@ -1,22 +1,30 @@
 # Hi there, I'm Ibrahim 👋  
 
-🎓 Sophomore @ The Ohio State University (CSE ‘27)  
-💻 Full-stack & AI/ML enthusiast | Cybersecurity researcher | Open-source contributor  
-🚀 Interested in AI agents, cloud infrastructure, and blockchain-backed applications  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Ibrahim+👋;Full-Stack+%26+AI/ML+Enthusiast;Cybersecurity+Researcher;Open-Source+Contributor)](https://git.io/typing-svg)
+
+🎓 Junior @ The Ohio State University (CSE ‘27)  
+💻 Backend & AI/ML enthusiast | Cybersecurity Researcher 
+🚀 Interested in AI agents, cloud infrastructure, and anything data-related tech! 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity  
+
 ![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hash7861&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash7861&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hash7861&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hash7861&theme=tokyonight&hide_border=true)  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hash7861&theme=onedark&margin-w=10&margin-h=10)  
+
+![visitors](https://komarev.com/ghpvc/?username=hash7861&color=blue)
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌟 Building **AI-powered apps** (Stockscribe, RosterVision, JavaChain, etc.)  
-- 🌍 Love exploring **agentic AI workflows**, cloud, and full-stack development  
-- ⚡ Interested in **cybersecurity + AI** research  
-- 🎯 Goal: Combine AI + DevOps to automate everyday workflows  
+- 🌟 Building **AI-powered apps** (RosterVision, Stockscribe, etc.)  
+- 🌍 Exploring **agentic AI workflows**, cloud, and full-stack development  
+- ⚡ Completed **cybersecurity + AI** research  
 
 ---
 
@@ -49,13 +57,18 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects  
+ 
+- [**RosterVision**](https://github.com/hash7861/RosterVision) – Face recognition attendance tracker (React Native + TensorFlow)  
+- [**Stockscribe**](https://github.com/hash7861/Stockscribe) – AI assistant summarizing stock sentiment 
+- [**HilliardBarber**](https://github.com/hash7861/HilliardBarber) – Full-stack barber shop booking system  
+
+---
+
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-hashmi-51222a309/)  
-[![Devpost](https://img.shields.io/badge/Devpost-black?logo=devpost)](https://devpost.com/)  
 📫 Email: hashmi.48@osu.edu  
 
 ---
 
-## ☕ Fun Fact
-My current fuel: gym + passion to keep moving
 
