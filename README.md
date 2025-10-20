@@ -1,9 +1,9 @@
-# Hi there, I'm Ibrahim 👋  
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=800&lines=Wassup!+I'm+Ibrahim+👋;Full-Stack+%26+AI/ML+Enthusiast;Cybersecurity+Researcher)](https://git.io/typing-svg)
 
 🎓 Junior @ The Ohio State University (CSE ‘27)  
+
 💻 Full-stack & AI/ML enthusiast | Cybersecurity Researcher 
+
 🚀 Interested in AI agents, cloud infrastructure, and blockchain-backed applications  
 
 ---
@@ -12,7 +12,6 @@
 - 🌟 Building **AI-powered apps** (Stockscribe, RosterVision, JavaChain, etc.)  
 - 🌍 Exploring **agentic AI workflows**, cloud, and full-stack development  
 - ⚡ Interested in **cybersecurity + AI** research  
-- 🎯 Goal: Combine AI + DevOps to automate everyday workflows  
 
 ---
 
@@ -20,11 +19,11 @@
 
 | Category              | Tools & Languages |
 |-----------------------|-------------------|
-| **Programming**       | 🐍 Python, ☕ Java, ➕➕ C++, 🌐 JavaScript |
-| **Frontend**          | ⚛️ React, 📱 Expo |
-| **Backend & Tools**   | 🌱 Node.js, 🧪 Flask, 🐳 Docker |
-| **Databases & Cloud** | 🐘 PostgreSQL, 🍃 MongoDB, ☁️ Render |
-| **AI / ML**           | 🔶 TensorFlow, 🔥 PyTorch, 🟣 LangChain |
+| **Programming**       | Python, Java, C++ |
+| **Frontend**          | React, Expo |
+| **Backend & Tools**   | Node.js, Flask, Docker |
+| **Databases & Cloud** | PostgreSQL, MongoDB, Render |
+| **AI / ML**           | TensorFlow, PyTorch, LangChain, OpenAI|
 
 ---
 
