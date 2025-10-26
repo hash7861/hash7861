@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects  
 
-- [**Stockscribe**](https://github.com/hash7861/Stockscribe) – AI assistant summarizing stock sentiment  
+- [**Stockscribe**](https://github.com/hash7861/SeatSense) – AI assistant finding the best places to study on OSU campus  
 - [**RosterVision**](https://github.com/hash7861/RosterVision) – Face recognition attendance tracker (React Native + TensorFlow)  
 - [**HilliardBarber**](https://github.com/hash7861/HilliardBarber) – Full-stack barber shop booking system  
 
