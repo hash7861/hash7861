@@ -39,4 +39,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-hashmi-51222a309/)  
 📫 Email: hashmi.48@osu.edu  
 
+[Ibrahim Hashmi - Resume.pdf](https://github.com/user-attachments/files/26223060/Ibrahim.Hashmi.March.2026.-.Resume.pdf)
+
 ---
